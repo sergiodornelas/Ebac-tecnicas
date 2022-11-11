@@ -10,7 +10,7 @@
 -  **RN01** - Os valores dos produtos devem estar entre R$19,00 e R$99,00;
 - **RN03** - Permitir cadastro máximo de 100 itens por vez;
 ***
-_**2.**_ Aplique a técnica de Tabela de decisão para as regras de negócio:
+_**3.**_ Aplique a técnica de Tabela de decisão para as regras de negócio:
 
 - **RN02** - Produtos iguais já cadastrados há mais de 30 dias devem ser renovados;
 - **RN03** - Permitir cadastro máximo de 100 itens por vez;
